@@ -130,5 +130,6 @@ Analyze trends across categories, months, and locations.
 
 Rim Jhim
 CSE Student | Data Analytics Enthusiast
+
 LinkedIn: https://www.linkedin.com/in/thamina-khurshed-rimjhim-061130231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 

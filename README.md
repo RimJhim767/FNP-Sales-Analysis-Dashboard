@@ -1,19 +1,22 @@
 # FNP-Sales-Analysis-Dashboard
 
-##Executive Summary
+## Dashboard Preview
+![FNP Sales Dashboard](FNP.png)
+
+## Executive Summary
 
 The FNP Sales Analysis Dashboard is a data analytics project designed to provide business insights into sales performance, customer behavior, delivery efficiency, and product trends. The dashboard transforms raw transactional data into clear visual metrics that help stakeholders quickly understand revenue patterns, top-performing categories, and operational performance.
 
 This project focuses on converting complex datasets into decision-ready analytics using Excel data modeling, pivot tables, and interactive slicers. The goal is to help management identify peak sales occasions, optimize delivery timelines, and improve product strategy through data-driven insights.
 
-##Project Highlights
+## Project Highlights
 
 - Built an interactive Excel dashboard using Data Model relationships
 - Designed KPI cards for executive-level reporting
 - Implemented slicers & timeline filters for dynamic analysis
 - Converted raw transactional data into business insights
 
-##Project Objectives
+## Project Objectives
 
 Analyze overall sales performance and revenue trends
 
@@ -25,7 +28,7 @@ Understand customer spending behavior
 
 Provide an interactive dashboard for business decision-making
 
-##Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 The dashboard highlights several high-level business metrics:
 
@@ -39,7 +42,8 @@ Average Customer Spending: ₹3,520.98
 
 These KPIs provide a quick overview of operational and financial performance.
 
-##Dashboard Features
+## Dashboard Features
+
 1️⃣ Revenue by Occasion
 
 Analyzes revenue generated during different events such as Anniversary, Birthday, Holi, Diwali, and Raksha Bandhan.
@@ -81,23 +85,17 @@ Highlights best-selling products contributing the most revenue, helping improve 
 
 Provides geographic insights into customer demand across cities.
 
-##Tools & Technologies Used
+## Tools & Technologies Used
 
-Microsoft Excel
+- Microsoft Excel
+- Power Query (Data Cleaning & Transformation)
+- Power Pivot (Data Modeling & Relationships)
+- DAX (Measures)
+- Pivot Tables & Pivot Charts
+- Slicers & Timeline Filters
+- Business KPI Design
 
-Data Model
-
-Pivot Tables
-
-Pivot Charts
-
-Slicers & Timeline Filters
-
-Data Cleaning & Transformation
-
-Business KPI Design
-
-##Data Modeling Approach
+## Data Modeling Approach
 
 The project uses a structured data model where multiple tables are connected through relationships.
 This allows:
@@ -108,7 +106,7 @@ Dynamic reporting
 
 Cross-table analytics
 
-##Key Insights
+## Key Insights
 
 Certain occasions generate significantly higher revenue, indicating strong seasonal buying behavior.
 
@@ -118,7 +116,7 @@ Monthly analysis reveals peak demand periods that could guide promotional campai
 
 Delivery time averages around 5.5 days, highlighting operational performance.
 
-##How to Use the Dashboard
+## How to Use the Dashboard
 
 Open the Excel dashboard file.
 
@@ -128,7 +126,7 @@ Select filters to dynamically update all charts and KPIs.
 
 Analyze trends across categories, months, and locations.
 
-##Author
+## Author
 
 Rim Jhim
 CSE Student | Data Analytics Enthusiast
